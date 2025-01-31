@@ -3,8 +3,8 @@
 
 https://amrit619.carrd.co/
 -👀 I’m interested in development and open source projects.
--🌱 I’m currently learning web development.
--💞️ I’m looking to collaborate on developers and learners.
+-🌱 I’m currently working in field of Machine Learning and Web Development.
+-💞️ I’m looking to collaborate with developers and learners.
 
 
 <!---
